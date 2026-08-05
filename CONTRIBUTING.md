@@ -7,10 +7,9 @@ Thank you for your interest in contributing.
 - Check existing issues and pull requests to avoid duplicate work.
 - For significant changes, open an issue first to discuss the proposed
   change before submitting a pull request.
-- Architectural and process decisions are governed by the
-  [`foundation`](https://github.com/MaanLabs/foundation) repository. Review
-  it before proposing changes that affect standards, architecture, or
-  process.
+- Architectural and process standards are maintained internally by
+  MaanLabs; if a change would affect those standards, expect discussion
+  before it can be merged.
 
 ## Workflow
 

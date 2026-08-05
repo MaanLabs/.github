@@ -17,7 +17,7 @@
 ## Checklist
 
 - [ ] I have read the [contribution guidelines](../CONTRIBUTING.md)
-- [ ] My changes follow the standards defined in `foundation`
+- [ ] My changes follow MaanLabs' internal engineering standards
 - [ ] Relevant tests were added or updated
 - [ ] Relevant documentation was added or updated
 

@@ -1,8 +1,13 @@
 # MaanLabs / .github
 
-This repository holds organization-wide community health files and shared
-GitHub configuration for MaanLabs. Files here apply as defaults across all
-repositories in the organization unless a repository defines its own.
+MaanLabs builds software products.
+
+This repository contains organization-wide public GitHub community files
+for MaanLabs — contribution guidelines, a security policy, and issue/pull
+request templates used as defaults across the organization.
+
+Product and company information is available through official public
+MaanLabs channels.
 
 ## Contents
 
@@ -14,6 +19,3 @@ repositories in the organization unless a repository defines its own.
 ## Ownership
 
 MaanLabs
-
-Architectural and process decisions referenced by these files are governed
-by the [`foundation`](https://github.com/MaanLabs/foundation) repository.

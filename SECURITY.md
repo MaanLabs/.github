@@ -1,27 +1,20 @@
 # Security Policy
 
-## Reporting a Vulnerability
+## Reporting a vulnerability
 
-If you believe you have found a security vulnerability in a MaanLabs
-repository, please report it responsibly and privately rather than through
-a public GitHub issue.
+If you believe you have found a security vulnerability in a MaanLabs system
+or service, please report it privately. Do not open a public GitHub issue.
 
-**Reporting channel: [PLACEHOLDER: designate a security contact email or
-GitHub Security Advisories reporting process]**
+Send a message through the contact form at <https://maanlabs.com/contact> and
+start it with "Security". Keep exploit details out of anything public.
 
 Please include:
 
 - A description of the vulnerability and its potential impact.
-- Steps to reproduce, including affected repository and version/commit.
+- Steps to reproduce, including the affected system and version, if known.
 - Any proof-of-concept code or evidence, if available.
-
-## Response
-
-**[PLACEHOLDER: define expected acknowledgement and response timelines
-once a security process is approved]**
 
 ## Scope
 
-This policy applies to repositories owned by the MaanLabs GitHub
-organization. Third-party dependencies should be reported to their
-respective maintainers.
+This policy applies to systems and services operated by MaanLabs. Third-party
+dependencies should be reported to their respective maintainers.
